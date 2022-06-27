@@ -1,0 +1,2 @@
+# Virus-Spreading
+In this Project I used Python to make a visualization of a virus spreading.I want to use programming as a way to dig into what factors can make a virus-like COVID-19 so deadly many outlets are creating informative graphs and visualizations using data science. I have made this data visualization using the most current statistics on the coronavirus. I’ve coded in Python using NumPy and Matplotlib.
